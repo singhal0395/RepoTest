@@ -1,2 +1,2 @@
 var a= b * C
-var d = a *a
+var d = b *b
